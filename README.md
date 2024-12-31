@@ -51,7 +51,9 @@ import pandas as pd
  plt.show()
 ```
 ## Output:
-[EX 09(ml).pdf](https://github.com/user-attachments/files/17950610/EX.09.ml.pdf)
+![image](https://github.com/user-attachments/assets/49065fdb-c929-4a90-87e5-012633422bbf)
+![image](https://github.com/user-attachments/assets/fada14ae-f990-43d3-b708-6ae2ae188096)
+
 
 
 ## Result:
