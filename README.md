@@ -8,10 +8,38 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Problem Definition
+
+Identify the independent variables (X) such as experience, education_level, and performance_rating.
+The dependent variable (Y) is the salary of the employee.
+
+2.Load and Preprocess Data
+
+Load the dataset, handle missing values, and encode categorical variables if necessary.
+
+3.Split Data
+
+Divide the dataset into training and testing subsets.
+
+4.Initialize Decision Tree Regressor
+
+Use DecisionTreeRegressor from sklearn. Set parameters like max_depth to prevent overfitting.
+
+5.Train the Model
+
+Fit the regressor on the training data.
+
+6.Make Predictions
+
+Predict employee salaries on the test data.
+
+7.Evaluate the Model
+
+Use metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² score to evaluate the model.
+
+7.Visualize Decision Tree (Optional)
+
+Plot the decision tree to interpret feature splits and thresholds.
 
 ## Program:
 ```
